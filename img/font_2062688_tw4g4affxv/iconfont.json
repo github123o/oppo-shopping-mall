@@ -1,0 +1,16 @@
+{
+  "id": "2062688",
+  "name": "oppo商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13834869",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}

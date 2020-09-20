@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shangpin" unicode="&#58891;" d="M832 805.312c35.328 0 64-31.04 64-69.312v-693.312c0-38.336-28.672-69.376-64-69.376H192c-35.328 0-64 31.04-64 69.376V736c0 38.272 28.672 69.312 64 69.312h640zM832 736H192v-704h640V736zM384 576v-34.752C384 472.064 441.28 416 512 416s128 56.064 128 125.248V576h64v-32a192 192 0 1 0-384 0v32h64z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

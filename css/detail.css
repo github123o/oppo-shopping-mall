@@ -1,0 +1,375 @@
+.container {
+    border: 1px solid #ccc;
+}
+
+.container .breadcrumb {
+    margin-left: -15px;
+    margin-right: -15px;
+
+}
+
+.media .media-object{
+    width:469px;
+    height:469px;
+}
+.container .media-body{
+    width:400px;
+    height:1200px;
+    /* background: aquamarine; */
+}
+.media .price {
+    font-size: 38px;
+    color: red;
+    margin: 10px 0px;
+}
+
+.media-body .yanse{
+    width:481px;
+    height:128px;
+    background:white;
+    display:flex;
+    position: relative;
+}
+.media-body .duanhei{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+.media-body .duanhei span{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    background:#000;
+    border-radius: 8px;
+}
+
+.media-body .chaju{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+.media-body .chaju span{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    background:#000;
+    border-radius: 8px;
+}
+.media-body .yahui{
+    position:absolute;
+    top:62px;
+    /* left:5px; */
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+.media-body .yahui span{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    background:#000;
+    border-radius: 8px;
+}
+.media-body .lanbo{
+    position:absolute;
+    top:62px;
+    left:240px;
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+.media-body .lanbo span{
+    display:inline-block;
+    width:16px;
+    height:16px;
+    background:#000;
+    border-radius: 8px;
+}
+/* 配置 */
+.media-body .peizhi{
+    width:481px;
+    height:64px;
+    background:white;
+    display:flex;
+    position: relative;
+}
+.media-body .xiao{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+.media-body .da{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+/* 服务 */
+.media-body .fuwu{
+    width:481px;
+    height:194px;
+    background:white;
+    display:flex;
+    position: relative;
+}
+.media-body .pingsui{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+
+
+.media-body .wuyou{
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+
+.media-body .care{
+    position:absolute;
+    top:62px;
+    /* left:5px; */
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+
+.media-body .yanchang{
+    position:absolute;
+    top:62px;
+    left:240px;
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+
+.media-body .yanchang_one{
+    position:absolute;
+    top:112px;
+    /* left:240px; */
+    width: 220px;
+    height:42px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:42px;
+    margin: 10px;
+}
+/* 加价购 */
+.media-body .jiajia{
+    width:461px;
+    height:196px;
+    background:white;
+    margin:auto;
+    display:flex;
+}
+
+.media-body .kaifu{
+    width:102px;
+    height:196px;
+    /* background:gray; */
+    flex:1;
+
+}
+.media-body .kaifu img{
+    width:66px;
+    height:66px;
+    text-align:center;
+}
+.media-body .kaifu span{
+    width:15px;
+    height:15px;
+    background:white;
+    border-radius: 7px;
+    display:inline-block;
+}
+.media-body .kaifu i{
+    text-decoration:line-through;
+}
+
+.media-body .kaifu_one{
+    width:102px;
+    height:196px;
+    /* background:gray; */
+    flex:1;
+}
+.media-body .kaifu_one img{
+    width:66px;
+    height:66px;
+    text-align:center;
+}
+.media-body .kaifu_one span{
+    width:15px;
+    height:15px;
+    background:white;
+    border-radius: 7px;
+    display:inline-block;
+}
+.media-body .kaifu_one i{
+    text-decoration:line-through;
+}
+
+.media-body .white{
+    width:102px;
+    height:196px;
+    /* background:gray; */
+    flex:1;
+}
+.media-body .white img{
+    width:66px;
+    height:66px;
+    text-align:center;
+}
+.media-body .white span{
+    width:15px;
+    height:15px;
+    background:white;
+    border-radius: 7px;
+    display:inline-block;
+}
+.media-body .white i{
+    text-decoration:line-through;
+}
+
+.media-body .jingyehei{
+    width:102px;
+    height:196px;
+    /* background:gray; */
+    flex:1;
+}
+.media-body .jingyehei img{
+    width:66px;
+    height:66px;
+    text-align:center;
+}
+.media-body .jingyehei span{
+    width:15px;
+    height:15px;
+    background:white;
+    border-radius: 7px;
+    display:inline-block;
+}
+.media-body .jingyehei i{
+    text-decoration:line-through;
+}
+
+.media-body .jiajia .jiao{
+    font-size:25px;
+    padding:33px 0;
+}
+/* 花呗分期 */
+.media-body .huabei{
+    width:481px;
+    height:64px;
+    background:white;
+    display:flex;
+    position: relative;
+}
+.media-body .sanqi{
+    width: 147px;
+    height:62px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:22px;
+    margin-left: 5px;                                               
+}
+.media-body .liuqi{
+    width: 147px;
+    height:62px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:22px;
+    margin-left: 5px;
+}
+.media-body .shierqi{
+    width: 147px;
+    height:62px;
+    border:1px solid #000;
+    text-align: center;
+    line-height:22px;
+    margin-left: 5px;
+}  
+/* 选择数量 */
+.media-body .shuliang{
+    width:196px;
+    height:44px;
+    background:white;
+    border:1px solid #000;
+}
+.media-body .shuliang .jian{
+    font-size: 35px;
+    padding-left:15px;
+}
+.media-body .shuliang .jia{
+    font-size: 35px;
+    padding-left:126px;
+}
+
+.media-body .gouwu{
+    width:476px;
+    height:100px;
+    background:white;
+}
+.media-body .gouwu .shopping{
+    width:196px;
+    height:60px;
+    background:white;
+    font-size:35px;
+    margin:32px 20px  0 20px;
+    text-align: center;
+    line-height: 60px;
+}
+
+.media-body .gouwu .goumai{
+    width:196px;
+    height:60px;
+    background:green;
+    font-size:35px;
+    display:inline-block;
+    margin: 32px 20px 0 20px;
+    text-align: center;
+    line-height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.goods_detail img{
+    width: 100%;
+}
